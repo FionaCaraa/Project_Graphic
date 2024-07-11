@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+1Ihw8L0LI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\senak\\source\\repos\\Project_Graphic\\Project_Graphic\\Project_Graphic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\senak\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\senak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\senak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

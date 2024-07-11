@@ -1,0 +1,13 @@
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\obj\Debug\Project_Graphic.csproj.AssemblyReference.cache
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\obj\Debug\Project_Graphic.csproj.CoreCompileInputs.cache
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\bin\Debug\Graphic Maker.dll
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\bin\Debug\Graphic Maker.pdb
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\obj\Debug\Project_.12C60EEF.Up2Date
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\obj\Debug\Graphic Maker.dll
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\obj\Debug\Graphic Maker.pdb
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\bin\Debug\System.Drawing.Common.dll
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\bin\Debug\System.Drawing.Common.pdb
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\bin\Debug\System.Drawing.Common.xml

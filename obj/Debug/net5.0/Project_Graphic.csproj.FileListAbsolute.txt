@@ -1,0 +1,5 @@
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\obj\Debug\net5.0\Project_Graphic.csproj.AssemblyReference.cache
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\obj\Debug\net5.0\Project_Graphic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\obj\Debug\net5.0\Project_Graphic.AssemblyInfoInputs.cache
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\obj\Debug\net5.0\Project_Graphic.AssemblyInfo.cs
+C:\Users\senak\source\repos\Project_Graphic\Project_Graphic\obj\Debug\net5.0\Project_Graphic.csproj.CoreCompileInputs.cache
